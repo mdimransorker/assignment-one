@@ -181,3 +181,18 @@ section{
   }
   
 /* contact-area end */
+/* footer section section start */
+.footer-area{
+    padding: 20px 0;
+    text-align: center;
+    background-color: #0b0d17;
+}
+.footer-area h3{
+    font-family: 'Pattaya', sans-serif;
+}
+.footer-area h3, 
+.footer-area p {
+	color: #fff;
+	margin: 15px 0;
+}
+/* footer section end */
